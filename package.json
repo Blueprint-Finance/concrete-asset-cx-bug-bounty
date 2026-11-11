@@ -1,0 +1,27 @@
+{
+  "name": "@concrete-xyz/asset-cx",
+  "version": "1.4.1",
+  "description": "Blueprint Asset CX",
+  "author": "Blueprint Finance",
+  "license": "AGPL-3.0",
+  "engines": {
+    "node": ">=20",
+    "npm": ">=10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blueprint-finance/ASSETcx.git"
+  },
+  "dependencies": {
+    "@layerzerolabs/oft-evm": "4.0.1",
+    "@layerzerolabs/oft-evm-upgradeable": "4.0.2",
+    "@dolomite-exchange/modules-base": "^0.0.1",
+    "@openzeppelin/contracts": "5.2.0",
+    "@openzeppelin/contracts-upgradeable": "5.2.0",
+    "clones-with-immutable-args": "^1.1.2"
+  },
+  "devDependencies": {
+    "solidity-bytes-utils": "^0.8.0"
+  },
+  "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
+}

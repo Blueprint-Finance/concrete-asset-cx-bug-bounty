@@ -1,0 +1,25 @@
+# Compiler files
+cache/
+out/
+
+# node_modules
+node_modules/
+
+# Ignores development broadcast logs
+!/broadcast
+/broadcast/*/31337/
+/broadcast/**/dry-run/
+
+
+# Dotenv file
+.env
+
+# coverage
+lcov.info
+
+# misc
+CLAUDE.local.md
+.mcp.json
+
+# DS Store
+*.DS_Store
