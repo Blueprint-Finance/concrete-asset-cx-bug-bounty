@@ -1,0 +1,7 @@
+forge-std/=lib/forge-std/src/
+@openzeppelin-upgradeable/=node_modules/@openzeppelin/contracts-upgradeable/
+@openzeppelin-contracts/=node_modules/@openzeppelin/contracts/
+@layerzerolabs/=node_modules/@layerzerolabs/
+clones-with-immutable-args/=node_modules/clones-with-immutable-args/
+@concrete-xyz/earn-v2-core/=lib/earn-v2-core/
+@dolomite-exchange/modules-base/=node_modules/@dolomite-exchange/modules-base/
